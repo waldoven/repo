@@ -1,0 +1,11 @@
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+/* colors   */
+
+.azul1 { background-color: #99ffcc; }
+.azul2 { background-color: #000099; }
+.pink1 { background-color: #7AA6D7; }
+.yellow1 { background-color: #BBDAF6; }
